@@ -1,4 +1,4 @@
-# My Default Webpack Setup
+# My Default WBS Boilerplate
 
 A simple boilerplate Webpack + Babel + SASS build project I developed to help me jump into creating new sites and testing Javascript libraries without having to worry about my Javascript breaking on different browsers.
 
